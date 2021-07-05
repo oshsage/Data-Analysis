@@ -1,0 +1,4 @@
+c:
+cd\pythoncrwaling\½Ç¹«Çü ÀÀ¿ë ±â¼ú
+pyinstaller_2.exe º¥Ã÷,Æø½º¹Ù°Õ
+

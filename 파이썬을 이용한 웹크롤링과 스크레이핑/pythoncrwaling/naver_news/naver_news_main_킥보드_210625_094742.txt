@@ -1,0 +1,9 @@
+번호	키워드	매체	날짜	제목	URL	본문
+1	킥보드	ZDNet Korea	2021.04.30. 오후 4:38	"킥보드, 안전 또 안전"...업계·지자체·경찰, 환경개선 총력	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=092&aid=0002220832	
+2	킥보드	헤럴드경제	2021.04.30. 오후 3:38	공유 킥보드 디어 ‘1분 90원’ 배민커넥터 발 된다	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=016&aid=0001829519	
+3	킥보드	이데일리	2021.04.30. 오후 3:01	세븐일레븐, 가정의 달 맞아 ‘가족사랑 선물세트’ 선봬	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=018&aid=0004917130	
+4	킥보드			'빨대퀸' 홍현희, 공유 킥보드 충격에 멘붕..월수입 1천만 원에 '깜짝'	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=112&aid=0003428002	
+5	킥보드			‘빨대퀸’ 홍현희, 방전된 킥보드 찾아 삼만리	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=144&aid=0000733885	
+6	킥보드	비즈니스워치	2021.04.30. 오후 12:53	[스토리 포토]당당한 "짐 맡아주세요!"...이것이 공유서비스	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=648&aid=0000000777	
+7	킥보드	파이낸셜뉴스	2021.04.30. 오전 11:24	세븐일레븐, 5월 가정의 달 ‘가족사랑 선물세트’ 선봬	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=014&aid=0004630829	
+8	킥보드	머니투데이	2021.04.30. 오전 9:36	세븐일레븐 "편의점서 '가정의 달' 선물 준비하세요"	https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=008&aid=0004580784	
